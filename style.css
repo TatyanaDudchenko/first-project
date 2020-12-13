@@ -1,4 +1,11 @@
-.main {
-    background-color: cornflowerblue;
-    margin: 0 auto;
+.header {
+    background-color: rgb(250, 149, 199);
+}
+
+.content {
+    background-color: rgb(100, 149, 237);
     }
+
+.footer {
+    background-color: rgb(250, 149, 199);
+}
